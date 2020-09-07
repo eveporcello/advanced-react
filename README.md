@@ -1,7 +1,5 @@
 # Advanced React Links
 
-This repo contains the student materials for the React course on September 8, 2020. Thank you for being part of the class!
-
 ## Slides
 
 - [Slides](https://slides.com/moonhighway/advanced-react)
