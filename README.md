@@ -11,6 +11,8 @@
 
 ## React Hooks
 
+- [Toggle Challenge - Solution](https://codesandbox.io/s/toggle-challenge-wvdbj)
+
 ### Star Rating
 
 - Five Stars Rendered - ([run it](https://codesandbox.io/s/learning-react-star-rating-1-h7byq?file=/src/StarRating.js))
