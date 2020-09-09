@@ -4,11 +4,8 @@
 
 1. Fetch ([run it](https://codesandbox.io/s/dry-sea-wmw8w?file=/src/index.js))
 2. requestGithubUser ([run it](https://codesandbox.io/s/happy-hypatia-hu6e6?file=/src/index.js))
-
-## Authorized Requests
-
-1. Fetching with the GitHubUser Component ([run it](https://codesandbox.io/s/crazy-borg-xyw0m?file=/src/App.js))
-2. GitHubUser Component with localStorage ([run it](https://codesandbox.io/s/brave-water-w7knz?file=/src/App.js))
+3. Fetching with the GitHubUser Component ([run it](https://codesandbox.io/s/crazy-borg-xyw0m?file=/src/App.js))
+4. Displaying a List ([run it](https://codesandbox.io/s/great-knuth-iq8qu?file=/src/App.js))
 
 ## Lab: Loading Data 
 
@@ -23,10 +20,9 @@ Extra Credit: Add Styles!
 
 ## Render Props
 
-1. Displaying a List ([run it](https://codesandbox.io/s/great-knuth-iq8qu?file=/src/App.js))
-2. Empty List ([run it](https://codesandbox.io/s/eager-http-zgou9?file=/src/App.js))
-3. List with Data ([run it](https://codesandbox.io/s/affectionate-tdd-0mucp?file=/src/App.js))
-4. Conditional Render Prop Function ([run it](https://codesandbox.io/s/suspicious-sara-3dtyy?file=/src/App.js))
+1. Empty List ([run it](https://codesandbox.io/s/eager-http-zgou9?file=/src/App.js))
+2. List with Data ([run it](https://codesandbox.io/s/affectionate-tdd-0mucp?file=/src/App.js))
+3. Conditional Render Prop Function ([run it](https://codesandbox.io/s/suspicious-sara-3dtyy?file=/src/App.js))
 
 ## Fetch Hooks
 
