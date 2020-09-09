@@ -36,18 +36,6 @@
 - Refactor: `useColors` hook - ([run it](https://codesandbox.io/s/learning-react-color-organizer-8-jqchd?file=/src/ColorProvider.js))
 - BONUS: Color Organizer App (with emotion css)- ([run it](https://codesandbox.io/s/learning-react-color-organizer-9-ypf8r?file=/src/ColorList.js))
 
-### `useEffect` hook
-
-- Blocking Alert Call - ([run it](https://codesandbox.io/s/learning-react-useeffect-1-yu7f6?file=/src/App.js));
-- Unreachable Code - ([run it](https://codesandbox.io/s/learning-react-useeffect-2-orpoq?file=/src/App.js));
-- The `useEffect` hook - ([run it](https://codesandbox.io/s/learning-react-useeffect-3-flshw?file=/src/App.js));
-
-### The Dependency Array
-
-- Too many effects - ([run it](https://codesandbox.io/s/learning-react-useeffect-4-w723e?file=/src/App.js))
-- Effect Dependencies - ([run it](https://codesandbox.io/s/learning-react-useeffect-5-uqol2?file=/src/App.js))
-- Any Key to Render - ([run it](https://codesandbox.io/s/learning-react-useeffect-6-eg5w4?file=/src/App.js))
-
 ### useReducer
 
 - Checkbox with `useState` - ([run it](https://codesandbox.io/s/learning-react-usereducer-1-ef229?file=/src/App.js))
