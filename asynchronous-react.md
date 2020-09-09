@@ -10,6 +10,13 @@
 1. Fetching with the GitHubUser Component ([run it](https://codesandbox.io/s/crazy-borg-xyw0m?file=/src/App.js))
 2. GitHubUser Component with localStorage ([run it](https://codesandbox.io/s/brave-water-w7knz?file=/src/App.js))
 
+## Lab: Loading Data 
+
+1. Using Fetch, make a request for this API: [Pet Library](https://pet-library.moonhighway.com/api/pets)
+2. Create a Component to Display All of the Pets
+3. Create a Component to Display a Single Pet: Name and Image
+Extra Credit: Add Styles!
+
 ## Handling Promise States
 
 1. Handling States ([run it](https://codesandbox.io/s/funny-architecture-9hwg4?file=/src/App.js))
