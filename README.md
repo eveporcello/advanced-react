@@ -54,3 +54,9 @@
 - [xstate Visualizer](https://xstate.js.org/viz/)
 - [tahoeTravelMachine Visualized](https://xstate.js.org/viz/?gist=978291ab7a65607bafb58dcdaf65a65d)
 - [Tahoe Travel Machine](https://github.com/eveporcello/xstate-examples)
+
+# Flux & Redux
+
+- [Slides](https://docs.google.com/presentation/d/1lpIO_rH70Xrh1idiyJIgePIaQdONJVXkVpsDNd1UjaQ/edit?usp=sharing)
+- [Activity](https://github.com/eveporcello/counter)
+- [Activity Finished](https://github.com/eveporcello/counter/tree/complete)
