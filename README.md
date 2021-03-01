@@ -111,3 +111,34 @@ curl -X POST \
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 - [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 - [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
+
+
+## End of Class Questions
+
+1. Integration Testing - What are best practices for testing integration?
+
+- [Integration Testing with Testing Library](https://dev.to/francodalessio/writing-an-integration-test-with-react-testing-library-1eo3)
+
+2. HOCs
+
+- [HOC Overview](https://reactjs.org/docs/higher-order-components.html)
+- [HOC Testing]()
+
+3. Upcoming Changes to React
+
+- [React Blog](https://reactjs.org/blog/all.html/)
+- [Forums, News, Support](https://reactjs.org/community/support.html)
+- [React Podcast](https://reactpodcast.simplecast.com/)
+- [ui.dev Newsletter](https://bytes.dev/)
+- [Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+
+4. Other Courses
+
+- [Apollo Course](https://odyssey.apollographql.com/?utm_source=blog&utm_medium=sidebar&utm_campaign=blog_sidebar)
+- [How to GraphQL](https://howtographql.com)
+- [React Security](https://courses.reactsecurity.io/courses/react-security-fundamentals)
+- [Functional JavaScript - FE Masters](https://frontendmasters.com/courses/functional-first-steps/)
+- [State Machines & React - FE Masters](https://frontendmasters.com/courses/xstate-react/)
+- [State Management - FE Masters](https://frontendmasters.com/courses/pure-react-state/)
+- [Redux with Hooks - egghead](https://egghead.io/playlists/redux-with-react-hooks-8a37)
+- [Shareable Hooks - egghead](https://egghead.io/courses/shareable-custom-hooks-in-react)
