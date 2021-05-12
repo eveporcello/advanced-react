@@ -8,9 +8,8 @@
 
 ## Lab: Loading Data 
 
-1. Using Fetch, make a request for this API: [Pet Library](https://pet-library.moonhighway.com/api/pets)
-2. Create a Component to Display All of the Pets
-3. Create a Component to Display a Single Pet: Name and Image
+1. Using Fetch, make a request for this API: [SpaceX](https://api.spacexdata.com/v4/rockets)
+2. Create Components to Display All of the Rockets
 Extra Credit: Add Styles!
 
 ## Handling Promise States
