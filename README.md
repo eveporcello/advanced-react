@@ -59,7 +59,8 @@
 ## Flux & Redux
 
 - [Slides](https://docs.google.com/presentation/d/1lpIO_rH70Xrh1idiyJIgePIaQdONJVXkVpsDNd1UjaQ/edit?usp=sharing)
-- [Activity](https://github.com/eveporcello/counter)
+- [Activity Start](https://github.com/eveporcello/counter)
+- [Activity Start: CodeSandbox](https://codesandbox.io/s/quiet-hooks-giwtk)
 - [Activity Finished](https://github.com/eveporcello/counter/tree/complete)
 - [Finished Tests](https://gist.github.com/eveporcello/f4b8f2e733c621cb4723cebb5745df84)
 
