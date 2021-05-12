@@ -10,7 +10,7 @@
 
 1. Using Fetch, make a request for this API: [SpaceX](https://api.spacexdata.com/v4/rockets)
 2. Create Components to Display All of the Rockets
-Extra Credit: Add Styles!
+3. Extra Credit: Add Styles!
 
 ## Handling Promise States
 
