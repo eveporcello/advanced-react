@@ -106,6 +106,17 @@ curl -X POST \
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Snowtooth UI Finished Files](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
 
+### The Dependency Array
+
+- Too many effects - ([run it](https://codesandbox.io/s/learning-react-useeffect-4-w723e?file=/src/App.js))
+- Effect Dependencies - ([run it](https://codesandbox.io/s/learning-react-useeffect-5-uqol2?file=/src/App.js))
+- Any Key to Render - ([run it](https://codesandbox.io/s/learning-react-useeffect-6-eg5w4?file=/src/App.js))
+- Array Dependency issue - ([run it](https://codesandbox.io/s/learning-react-useeffect-7-3xo59?file=/src/App.js))
+- `useMemo` - ([run it](https://codesandbox.io/s/learning-react-useeffect-8-w62wg?file=/src/App.js))
+- Function Dependency issue - ([run it](https://codesandbox.io/s/learning-react-useeffect-9-yil9d?file=/src/App.js))
+- `useCallback` - ([run it](https://codesandbox.io/s/learning-react-useeffect-10-e9im3?file=/src/App.js))
+
+
 ## Next Steps
 
 - [Pet Library with Relay](https://github.com/eveporcello/pet-library-demo)
