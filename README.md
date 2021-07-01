@@ -1,9 +1,5 @@
 # Advanced React Links
 
-## Slides
-
-- [Slides](https://slides.com/moonhighway/advanced-react)
-
 ## Instructor Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
