@@ -5,22 +5,9 @@
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
-## React Hooks
-
-- [Toggle Challenge - Solution](https://codesandbox.io/s/toggle-challenge-wvdbj)
-
-### Star Rating
-
-- Five Stars Rendered - ([run it](https://codesandbox.io/s/learning-react-star-rating-1-h7byq?file=/src/StarRating.js))
-- Star Component with Props - ([run it](https://codesandbox.io/s/learning-react-star-rating-2-zbkuu?file=/src/App.js))
-- Star Component with State - ([run it](https://codesandbox.io/s/learning-react-star-rating-3-tpmr9?file=/src/StarRating.js))
-- Completed Star Component - ([run it](https://codesandbox.io/s/learning-react-star-rating-4-gxvb5?file=/src/Star.js))
-- Advanced Star Component - ([run it](https://codesandbox.io/s/learning-react-star-rating-5-86ngm?file=/src/StarRating.js))
-
 ### Color Organizer
 
-- Feature: Display Color Data - ([run it](https://codesandbox.io/s/learning-react-color-organizer-1-5r8tr?file=/src/App.js))
-- Features: Remove Color, Rate Color - ([run it](https://codesandbox.io/s/learning-react-color-organizer-2-iytxb?file=/src/App.js))
+- Start Files [Download](https://github.com/eveporcello/color-organizer)
 - Feature: Add Color Component with Refs - ([run it](https://codesandbox.io/s/learning-react-color-organizer-3-kkyn0?file=/src/AddColorForm.js))
 - Refactor: Add Color Controlled Component - ([run it](https://codesandbox.io/s/learning-react-color-organizer-4-sudge?file=/src/AddColorForm.js))
 
@@ -31,20 +18,7 @@
 - Refactor: Colors In Context - ([run it](https://codesandbox.io/s/learning-react-color-organizer-7-lg9y3?file=/src/index.js))
 - Refactor: `useColors` hook - ([run it](https://codesandbox.io/s/learning-react-color-organizer-8-jqchd?file=/src/ColorProvider.js))
 - BONUS: Color Organizer App (with emotion css)- ([run it](https://codesandbox.io/s/learning-react-color-organizer-9-ypf8r?file=/src/ColorList.js))
-
-### useReducer
-
-- Checkbox with `useState` - ([run it](https://codesandbox.io/s/learning-react-usereducer-1-ef229?file=/src/App.js))
-- Checkbox with `toggle` - ([run it](https://codesandbox.io/s/learning-react-usereducer-2-oqy23?file=/src/App.js))
-- Checkbox with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-3-mht63?file=/src/App.js))
-- Increment number with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-4-b1yxs?file=/src/App.js))
-
-### useReducer to handle Complex State
-
-- `useState` with objects - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-1-k7ibz?file=/src/App.js))
-- `useReducer` with objects - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-2-ewue8?file=/src/App.js))
-- legacy `setState` with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-3-2wldd?file=/src/App.js))
-
+- 
 ## xstate and State Machines
 
 - [xstate Visualizer](https://xstate.js.org/viz/)
@@ -119,34 +93,3 @@ curl -X POST \
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 - [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 - [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
-
-
-## End of Class Questions
-
-1. Integration Testing - What are best practices for testing integration?
-
-- [Integration Testing with Testing Library](https://dev.to/francodalessio/writing-an-integration-test-with-react-testing-library-1eo3)
-
-2. HOCs
-
-- [HOC Overview](https://reactjs.org/docs/higher-order-components.html)
-- [HOC Testing]()
-
-3. Upcoming Changes to React
-
-- [React Blog](https://reactjs.org/blog/all.html/)
-- [Forums, News, Support](https://reactjs.org/community/support.html)
-- [React Podcast](https://reactpodcast.simplecast.com/)
-- [ui.dev Newsletter](https://bytes.dev/)
-- [Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
-
-4. Other Courses
-
-- [Apollo Course](https://odyssey.apollographql.com/?utm_source=blog&utm_medium=sidebar&utm_campaign=blog_sidebar)
-- [How to GraphQL](https://howtographql.com)
-- [React Security](https://courses.reactsecurity.io/courses/react-security-fundamentals)
-- [Functional JavaScript - FE Masters](https://frontendmasters.com/courses/functional-first-steps/)
-- [State Machines & React - FE Masters](https://frontendmasters.com/courses/xstate-react/)
-- [State Management - FE Masters](https://frontendmasters.com/courses/pure-react-state/)
-- [Redux with Hooks - egghead](https://egghead.io/playlists/redux-with-react-hooks-8a37)
-- [Shareable Hooks - egghead](https://egghead.io/courses/shareable-custom-hooks-in-react)
